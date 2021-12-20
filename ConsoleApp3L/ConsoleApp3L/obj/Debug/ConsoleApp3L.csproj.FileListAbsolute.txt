@@ -1,0 +1,7 @@
+C:\Users\Lenovo-PC\source\repos\ConsoleApp3L\ConsoleApp3L\bin\Debug\ConsoleApp3L.exe.config
+C:\Users\Lenovo-PC\source\repos\ConsoleApp3L\ConsoleApp3L\bin\Debug\ConsoleApp3L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp3L\ConsoleApp3L\bin\Debug\ConsoleApp3L.pdb
+C:\Users\Lenovo-PC\source\repos\ConsoleApp3L\ConsoleApp3L\obj\Debug\ConsoleApp3L.csproj.AssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp3L\ConsoleApp3L\obj\Debug\ConsoleApp3L.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp3L\ConsoleApp3L\obj\Debug\ConsoleApp3L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp3L\ConsoleApp3L\obj\Debug\ConsoleApp3L.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Furnitures>
+  <furniture name="Hanger">    
+    <width>150</width>
+<material>Plastic</material>
+  </furniture>  
+  
+  <furniture name="Chair">
+        <width>321321</width>
+<material>Wood</material>
+  </furniture>
+  </Furnitures>

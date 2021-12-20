@@ -1,0 +1,14 @@
+C:\Users\Lenovo-PC\source\repos\ConsoleApp13L\ConsoleApp13L\bin\Debug\ConsoleApp13L.exe.config
+C:\Users\Lenovo-PC\source\repos\ConsoleApp13L\ConsoleApp13L\bin\Debug\ConsoleApp13L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp13L\ConsoleApp13L\bin\Debug\ConsoleApp13L.pdb
+C:\Users\Lenovo-PC\source\repos\ConsoleApp13L\ConsoleApp13L\obj\Debug\ConsoleApp13L.csproj.AssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp13L\ConsoleApp13L\obj\Debug\ConsoleApp13L.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp13L\ConsoleApp13L\obj\Debug\ConsoleApp13L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp13L\ConsoleApp13L\obj\Debug\ConsoleApp13L.pdb
+D:\OOP\ConsoleApp13L\ConsoleApp13L\bin\Debug\ConsoleApp13L.exe.config
+D:\OOP\ConsoleApp13L\ConsoleApp13L\bin\Debug\ConsoleApp13L.exe
+D:\OOP\ConsoleApp13L\ConsoleApp13L\bin\Debug\ConsoleApp13L.pdb
+D:\OOP\ConsoleApp13L\ConsoleApp13L\obj\Debug\ConsoleApp13L.csproj.AssemblyReference.cache
+D:\OOP\ConsoleApp13L\ConsoleApp13L\obj\Debug\ConsoleApp13L.csproj.CoreCompileInputs.cache
+D:\OOP\ConsoleApp13L\ConsoleApp13L\obj\Debug\ConsoleApp13L.exe
+D:\OOP\ConsoleApp13L\ConsoleApp13L\obj\Debug\ConsoleApp13L.pdb

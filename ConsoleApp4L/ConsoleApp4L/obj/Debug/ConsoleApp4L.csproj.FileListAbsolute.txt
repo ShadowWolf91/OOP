@@ -1,0 +1,7 @@
+C:\Users\Lenovo-PC\source\repos\ConsoleApp4L\ConsoleApp4L\bin\Debug\ConsoleApp4L.exe.config
+C:\Users\Lenovo-PC\source\repos\ConsoleApp4L\ConsoleApp4L\bin\Debug\ConsoleApp4L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp4L\ConsoleApp4L\bin\Debug\ConsoleApp4L.pdb
+C:\Users\Lenovo-PC\source\repos\ConsoleApp4L\ConsoleApp4L\obj\Debug\ConsoleApp4L.csproj.AssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp4L\ConsoleApp4L\obj\Debug\ConsoleApp4L.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp4L\ConsoleApp4L\obj\Debug\ConsoleApp4L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp4L\ConsoleApp4L\obj\Debug\ConsoleApp4L.pdb

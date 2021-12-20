@@ -1,0 +1,24 @@
+Информация по диску X: 
+Каталоги: 
+D:\$RECYCLE.BIN
+D:\Documents
+D:\Games
+D:\Mathcad
+D:\Mathcad 15.0 (все языки)
+D:\msdownld.tmp
+D:\Music
+D:\OOP
+D:\OpenServer
+D:\System Volume Information
+D:\VirtualDJ
+D:\x64
+D:\БГТУ
+Файлы: 
+D:\123.docx
+D:\DumpStack.log.tmp
+D:\hamachi-2-ui.exe
+D:\hamachi.lng
+D:\LMIGuardianDll.dll
+D:\LMIGuardianEvt.Dll
+D:\LMIGuardianSvc.exe
+D:\pagefile.sys

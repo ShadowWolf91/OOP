@@ -1,0 +1,7 @@
+C:\Users\Lenovo-PC\source\repos\ConsoleApp2-2\ConsoleApp2-2\bin\Debug\ConsoleApp2-2.exe.config
+C:\Users\Lenovo-PC\source\repos\ConsoleApp2-2\ConsoleApp2-2\bin\Debug\ConsoleApp2-2.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp2-2\ConsoleApp2-2\bin\Debug\ConsoleApp2-2.pdb
+C:\Users\Lenovo-PC\source\repos\ConsoleApp2-2\ConsoleApp2-2\obj\Debug\ConsoleApp2-2.csproj.AssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp2-2\ConsoleApp2-2\obj\Debug\ConsoleApp2-2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp2-2\ConsoleApp2-2\obj\Debug\ConsoleApp2-2.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp2-2\ConsoleApp2-2\obj\Debug\ConsoleApp2-2.pdb

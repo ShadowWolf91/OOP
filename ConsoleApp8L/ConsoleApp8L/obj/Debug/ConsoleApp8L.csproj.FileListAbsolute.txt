@@ -1,0 +1,7 @@
+C:\Users\Lenovo-PC\source\repos\ConsoleApp8L\ConsoleApp8L\bin\Debug\ConsoleApp8L.exe.config
+C:\Users\Lenovo-PC\source\repos\ConsoleApp8L\ConsoleApp8L\bin\Debug\ConsoleApp8L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp8L\ConsoleApp8L\bin\Debug\ConsoleApp8L.pdb
+C:\Users\Lenovo-PC\source\repos\ConsoleApp8L\ConsoleApp8L\obj\Debug\ConsoleApp8L.csproj.AssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp8L\ConsoleApp8L\obj\Debug\ConsoleApp8L.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp8L\ConsoleApp8L\obj\Debug\ConsoleApp8L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp8L\ConsoleApp8L\obj\Debug\ConsoleApp8L.pdb

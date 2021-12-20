@@ -1,0 +1,7 @@
+D:\OOP\ConsoleApp16L\ConsoleApp16L\bin\Debug\ConsoleApp16L.exe.config
+D:\OOP\ConsoleApp16L\ConsoleApp16L\bin\Debug\ConsoleApp16L.exe
+D:\OOP\ConsoleApp16L\ConsoleApp16L\bin\Debug\ConsoleApp16L.pdb
+D:\OOP\ConsoleApp16L\ConsoleApp16L\obj\Debug\ConsoleApp16L.csproj.AssemblyReference.cache
+D:\OOP\ConsoleApp16L\ConsoleApp16L\obj\Debug\ConsoleApp16L.csproj.CoreCompileInputs.cache
+D:\OOP\ConsoleApp16L\ConsoleApp16L\obj\Debug\ConsoleApp16L.exe
+D:\OOP\ConsoleApp16L\ConsoleApp16L\obj\Debug\ConsoleApp16L.pdb

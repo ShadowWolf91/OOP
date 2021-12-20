@@ -1,0 +1,7 @@
+C:\Users\Lenovo-PC\source\repos\ConsoleApp7L\ConsoleApp7L\bin\Debug\ConsoleApp7L.exe.config
+C:\Users\Lenovo-PC\source\repos\ConsoleApp7L\ConsoleApp7L\bin\Debug\ConsoleApp7L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp7L\ConsoleApp7L\bin\Debug\ConsoleApp7L.pdb
+C:\Users\Lenovo-PC\source\repos\ConsoleApp7L\ConsoleApp7L\obj\Debug\ConsoleApp7L.csproj.AssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp7L\ConsoleApp7L\obj\Debug\ConsoleApp7L.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\ConsoleApp7L\ConsoleApp7L\obj\Debug\ConsoleApp7L.exe
+C:\Users\Lenovo-PC\source\repos\ConsoleApp7L\ConsoleApp7L\obj\Debug\ConsoleApp7L.pdb
